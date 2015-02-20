@@ -1,5 +1,5 @@
 #REACT.js Tutorial
-[![Build Status](https://travis-ci.org/troy0820/react-tutorial.svg?branch=master)](https://travis-ci.org/troy0820/react-tutorial)
+[![Travis branch](https://img.shields.io/travis/troy0820/react-tutorial.svg)](https://github.com/troy0820/react-tutorial)
 ##Getting started 
 
 ```
